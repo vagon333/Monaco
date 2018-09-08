@@ -1,0 +1,11 @@
+{
+  "classes": [
+    [
+      "class Chuck {",
+      "    greet(): string {",
+      "        return 'Greet!'",
+      "    }",
+      "}"
+    ]
+  ]
+}
